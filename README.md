@@ -6,5 +6,5 @@ You may check them by login:
 ```
 username: John_Lewin
 pass: 1024qw
-nextpass(auth page №2): #cheburek
+nextpass(auth page №2): cheburek
 ```
