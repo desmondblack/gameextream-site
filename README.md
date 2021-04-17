@@ -1,5 +1,7 @@
 This is my site: https://gameextream.polirek.by
-Almost all php functions writed by mine. Examples:
+Almost all php functions writed by mine (https://gameextream.polirek.by/ucp)
+
+Examples:
 
 Take a name of the house. Used when you click on house icon on url: https://gameextream.polirek.by/ucp/pages/maps/
 ```PHP
