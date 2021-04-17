@@ -1,2 +1,1 @@
-This is my site
-gameextream.polirek.by
+This is my site: https://gameextream.polirek.by
